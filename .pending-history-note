@@ -1,1 +1,1 @@
-expense pending 0 fix: fix edit not updating balance correctly at night
+expense pending 1 Fix localStorage not updating after delete transaction ? late night fix
