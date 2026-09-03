@@ -1,6 +1,6 @@
 # Expense Tracker (React)
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API, and its the best expense tracker
+An expense-tracking application built with React functional components, hooks, and the Context API.
 
 ## Usage
 ```
@@ -12,4 +12,12 @@ npm start
 # Build for prod
 npm run build
 ```
+
+## Attribution
+
+This learning project was inspired by Brad Traversy's public vanilla JavaScript expense-tracker example. That historical attribution does not indicate collaborator access to this repository.
+
+## Maintainer
+
+Maintained by [MShehrozJamshaid](https://github.com/MShehrozJamshaid). For questions or suggestions, contact [ishehrozjamshaid2@gmail.com](mailto:ishehrozjamshaid2@gmail.com).
 
